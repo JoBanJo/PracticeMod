@@ -1,7 +1,7 @@
 {
-    "variants": {
-        "normal": [
-            { "model": "sgpm:tutorialore" }
-        ]
-    }
+	"variants": {
+		"normal": [{
+			"model": "sgpm:tutorialore"
+		}]
+	}
 }
