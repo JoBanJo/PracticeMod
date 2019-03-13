@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sgpm",
+  "name": "Practice",
+  "description": "My practice mod",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Super_Gyro"],
+  "credits": "suppergerrie2's tutorial and the internet!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
